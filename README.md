@@ -1,4 +1,4 @@
-# 🎓 Prekshak AI
+# 🎓 Parikshak AI
 
 URL : https://parikshakfinalhost.vercel.app/
 > **Your Personal AI Pedagogical Coach**
