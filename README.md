@@ -1,9 +1,9 @@
-# 🎓 Parikshak AI
+# 🎓 Prekshak AI
 
 URL : https://parikshakfinalhost.vercel.app/
 > **Your Personal AI Pedagogical Coach**
 
-**Parikshak AI** (meaning "Examiner" in Hindi) is an advanced AI-powered platform designed to evaluate and improve classroom teaching quality. It acts as a smart coach for teachers and an evaluation tool for students/admins, analyzing **Video, Audio, and Content** to provide a 360-degree performance report.
+**Prekshak AI** (meaning "Examiner" in Hindi) is an advanced AI-powered platform designed to evaluate and improve classroom teaching quality. It acts as a smart coach for teachers and an evaluation tool for students/admins, analyzing **Video, Audio, and Content** to provide a 360-degree performance report.
 
 ---
 
